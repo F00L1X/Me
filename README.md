@@ -15,7 +15,6 @@ Date | Author | Action
 <!---
 F00L1X/Me is a ✨ special ✨ repository because it´s README.md appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
 [PublicStuff](#publicstuff)
   - [1. Shared Templates](#1-shared-templates)
     - [1.1 SCCM](#11-sccm)
@@ -50,3 +49,4 @@ You can click the Preview link to take a look at your changes.
 ### 2.3 C# (sharp)
 
 ### 2.4 React
+--->
